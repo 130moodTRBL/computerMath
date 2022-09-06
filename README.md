@@ -1,1 +1,1 @@
-# computerMath
+# 컴퓨터수학 
